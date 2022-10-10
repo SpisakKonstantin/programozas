@@ -13,3 +13,11 @@ if tipp < gondolt_szám:
 
 print('pápá.')
 """
+gondolt_szám = 4 
+tipp = input(' gondoltam egy számra. Tippeld meg ')
+tipp=int(tipp)
+if tipp == gondolt_szám:
+    print('Ügyes')
+else:
+    print(nem talált)
+print('pápá.')

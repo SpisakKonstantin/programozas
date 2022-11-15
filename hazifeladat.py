@@ -28,3 +28,9 @@ while szam<100:
         print(szam)
     szam=szam+1
 print("vége")
+
+
+valami=True
+while valami:
+    print("házi feladat")
+    valami=Fals

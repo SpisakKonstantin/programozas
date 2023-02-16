@@ -1,0 +1,9 @@
+#Spisak Roland Konstantin
+#10.D 1 csoport 
+szam=int(input("Adjon meg egy számot! "))
+if szam%2:
+    print("A megadott szám pozitiv.")
+elif szam!=%2:
+    print("A megadott szám negativ.")
+else:
+    print("A megadott szám nulla.")
